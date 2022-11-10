@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760200772459",
+    "project_id": "tweester-app",
+    "storage_bucket": "tweester-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760200772459:android:b97b68512848802e456a2e",
+        "android_client_info": {
+          "package_name": "com.project.tweesterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760200772459-sdi563ef2rgk1ivv4fbb8p2g4s26nf5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5u3iuLP2uPItVpTkaKoSMsPis8cOd6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760200772459-sdi563ef2rgk1ivv4fbb8p2g4s26nf5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

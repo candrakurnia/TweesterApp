@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tweester App</string>
+    <string name="title_home">Home</string>
+    <string name="title_tweest">Tweest</string>
+    <string name="title_search">Search</string>
+    <string name="title_message">Message</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="tweester">Tweester</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="phone_number_or_email_address">Phone Number or Email Address</string>
+    <string name="home">Home</string>
+    <string name="tweest">Tweest</string>
+    <string name="search">Search</string>
+    <string name="message">Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
